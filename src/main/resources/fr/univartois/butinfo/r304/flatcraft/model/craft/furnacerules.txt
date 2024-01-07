@@ -1,0 +1,4 @@
+gold_lump=gold_ingot
+iron_lump=steel_ingot
+copper_lump=copper_ingot
+cobble=stone
